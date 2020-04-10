@@ -10,7 +10,8 @@ Requirements
 | RE002 |      |   $12 |.   | 
 | RE003 | IP adress management    |    $1 |.    | 
 | RE004 | Plex services must be available externally  |    JK |.    | 
-| RE005 |   |    JK |.    | 
+| RE005 |  Access to all services must be avialble externally |    JK |.    | 
+ RE006 |  Signed certificates must be used for all external services |    JK |.    | 
 
 
 ## Constraints
