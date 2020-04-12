@@ -8,10 +8,10 @@ Requirements
 | ------------- |:-------------:| -----:|----:
 | RE001 | DNS must be highly available| JK  | 10/4/20 
 | RE002 |      |   $12 |.   | 
-| RE003 | IP adress management    |    $1 |.    | 
-| RE004 | Plex services must be available externally  |    JK |.    | 
-| RE005 |  Access to all services must be avialble externally |    JK |.    | 
- RE006 |  Signed certificates must be used for all external services |    JK |.    | 
+| RE003 | IP adress management    |     |.    | 
+| RE004 | Plex services must be available externally  |    JK |  | 
+| RE005 |  Access to all services must be avialble externally |    JK |  | 
+| RE006 |  The Always on component(s) must fit within 42GB of Ram |    JK |  | 
 
 
 ## Constraints
