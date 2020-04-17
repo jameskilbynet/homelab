@@ -1,8 +1,6 @@
-#Requirements, Constraints, Assumptions and Risks.
+# Requirements, Constraints, Assumptions and Risks.
 
 Requirements
-
-
 
 | ID     | Requirement        | Source  |   Date  | 
 | ------------- |:-------------:| -----:|----:

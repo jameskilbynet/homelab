@@ -1,6 +1,5 @@
 ## Physical Network
 
-
 Port|Description|VLAN|
 |---|---|---|---|
 |01| XTM330 Port 1 Trusted|0|
